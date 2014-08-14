@@ -1,8 +1,8 @@
 /**
- * angular-strap
+ * angular-strap-micro
  * @version v2.0.4 - 2014-08-14
  * @link http://mgcrea.github.io/angular-strap
- * @author Olivier Louvignes (olivier@mg-crea.com)
+ * @author Marcus Hall (marcush@lovattsmedia.com)
  * @license MIT License, http://www.opensource.org/licenses/MIT
  */
 'use strict';
