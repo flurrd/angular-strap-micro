@@ -1,21 +1,21 @@
 {
-  "name": "angular-strap",
+  "name": "angular-strap-micro",
   "description": "AngularStrap - AngularJS directives for Bootstrap",
   "version": "2.0.4",
   "keywords": [
     "angular",
     "bootstrap"
   ],
-  "homepage": "http://mgcrea.github.io/angular-strap",
-  "bugs": "https://github.com/mgcrea/angular-strap/issues",
+  "homepage": "https://github.com/flurrd/angular-strap-micro",
+  "bugs": "https://github.com/flurrd/angular-strap-micro/issues",
   "author": {
-    "name": "Olivier Louvignes",
-    "email": "olivier@mg-crea.com",
-    "url": "https://github.com/mgcrea"
+    "name": "Marcus Halls",
+    "email": "",
+    "url": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgcrea/angular-strap.git"
+    "url": "https://github.com/flurrd/angular-strap-micro.git"
   },
   "licenses": [
     {
